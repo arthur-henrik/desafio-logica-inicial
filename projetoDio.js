@@ -1,2 +1,3 @@
+let nome = "Arthur"
 console.log("Olá galera")
-console.log("teste")
+console.log(nome)
