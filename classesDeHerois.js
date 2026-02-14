@@ -32,7 +32,7 @@ heroi2.nome = "Gandalf";
 heroi2.idade = 200;
 heroi2.tipo = "mago";
 
-// 7️⃣ Fazendo os heróis atacarem!
+
 console.log("=== BATALHA COMEÇOU ===");
 heroi1.atacar(); // guerreiro atacou usando espada
 heroi2.atacar(); // mago atacou usando magia
